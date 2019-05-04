@@ -6,3 +6,4 @@ Collecting 3rd Apps
   - [kdPythonAPIViewer【通过GUI界面查看python或第三方库的API】](https://github.com/bkdwei/kdPythonAPIViewer)
   - [JQTools【基于Qt开发的小工具包】](https://github.com/188080501/JQTools)
   - [AppiumProjects【基于Appium框架开发的自动化程序】](https://github.com/codingZXY/AppiumProjects)
+  - [Pyqt写的git可视化工具](https://github.com/git-cola/git-cola)
