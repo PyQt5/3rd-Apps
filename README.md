@@ -8,3 +8,6 @@ Collecting 3rd Apps
   - [AppiumProjects【基于Appium框架开发的自动化程序】](https://github.com/codingZXY/AppiumProjects)
   - [Pyqt写的git可视化工具](https://github.com/git-cola/git-cola)
   - [一款PyQt音乐播放器](https://github.com/ffwff/aidoru/tree/master)
+  - [Qt使GTK主题QGtkStyleNoneX11](https://github.com/yennar/QGtkStyleNoneX11)
+  - [属性编辑器1](https://github.com/LeftRadio/PyQtPropertyBrowser)
+  - [属性编辑器2](https://github.com/theall/QtPropertyBrowserV2.6-for-pyqt5)
