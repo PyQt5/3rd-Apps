@@ -12,3 +12,4 @@ Collecting 3rd Apps
   - [属性编辑器1](https://github.com/LeftRadio/PyQtPropertyBrowser)
   - [属性编辑器2](https://github.com/theall/QtPropertyBrowserV2.6-for-pyqt5)
   - [一套扁平的QML框架Toou-2D](https://github.com/ShowFL/Toou-2D)
+  - [高仿QQ截图](https://github.com/chenluyong/OEasyScreenshot)
