@@ -15,4 +15,4 @@ Collecting 3rd Apps
   - [高仿QQ截图](https://github.com/chenluyong/OEasyScreenshot)
   - [笔记记录和待办事项软件](https://github.com/pbek/QOwnNotes)
   - [QQt应用程序框架软件](https://github.com/AbelTian/LibQQt)
-  
+  - [Pixel Art Editor](https://github.com/mitchcurtis/slate)
