@@ -16,3 +16,4 @@ Collecting 3rd Apps
   - [笔记记录和待办事项软件](https://github.com/pbek/QOwnNotes)
   - [QQt应用程序框架软件](https://github.com/AbelTian/LibQQt)
   - [Pixel Art Editor](https://github.com/mitchcurtis/slate)
+  - [嵌入WPS](https://github.com/timxx/pywpsrpc)
