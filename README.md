@@ -17,3 +17,6 @@ Collecting 3rd Apps
   - [QQt应用程序框架软件](https://github.com/AbelTian/LibQQt)
   - [Pixel Art Editor](https://github.com/mitchcurtis/slate)
   - [嵌入WPS](https://github.com/timxx/pywpsrpc)
+  - [Git 的文件冲突查看器](https://github.com/timxx/gitc)
+  - [有趣的Qt控件](https://github.com/MChenLiang/PyQt)
+
