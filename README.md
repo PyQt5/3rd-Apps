@@ -19,4 +19,5 @@ Collecting 3rd Apps
   - [嵌入WPS](https://github.com/timxx/pywpsrpc)
   - [Git 的文件冲突查看器](https://github.com/timxx/gitc)
   - [有趣的Qt控件](https://github.com/MChenLiang/PyQt)
-
+  - [Qt Frameless Window with DarkStyle](https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle)
+  - [qtmodern](https://github.com/gmarull/qtmodern)
