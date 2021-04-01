@@ -21,3 +21,4 @@ Collecting 3rd Apps
   - [有趣的Qt控件](https://github.com/MChenLiang/PyQt)
   - [Qt Frameless Window with DarkStyle](https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle)
   - [qtmodern](https://github.com/gmarull/qtmodern)
+  - [Ryven](https://github.com/leon-thomm/Ryven)
