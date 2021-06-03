@@ -22,3 +22,4 @@ Collecting 3rd Apps
   - [Qt Frameless Window with DarkStyle](https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle)
   - [qtmodern](https://github.com/gmarull/qtmodern)
   - [Ryven](https://github.com/leon-thomm/Ryven)
+  - [各种花里胡哨的Qt控件集合](https://github.com/iwxyi/Qt-ShowyWidgets)
