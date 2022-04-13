@@ -23,3 +23,4 @@ Collecting 3rd Apps
   - [qtmodern](https://github.com/gmarull/qtmodern)
   - [Ryven](https://github.com/leon-thomm/Ryven)
   - [各种花里胡哨的Qt控件集合](https://github.com/iwxyi/Qt-ShowyWidgets)
+  - [节点编辑器](https://github.com/jchanvfx/NodeGraphQt)
